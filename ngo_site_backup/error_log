@@ -1,0 +1,11 @@
+[10-Mar-2016 05:35:12 UTC] PHP Fatal error:  Call to a member function all_business() on a non-object in /home/rojgarti/public_html/d_ngo/application/modules/app_admin/controllers/Business.php on line 143
+[10-Mar-2016 05:36:09 UTC] PHP Fatal error:  Call to a member function all_business() on a non-object in /home/rojgarti/public_html/d_ngo/application/modules/app_admin/controllers/Business.php on line 143
+[10-Mar-2016 05:36:47 UTC] PHP Fatal error:  Call to a member function all_business() on a non-object in /home/rojgarti/public_html/d_ngo/application/modules/app_admin/controllers/Business.php on line 143
+[26-Mar-2016 04:47:05 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:47:28 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:47:32 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:51:39 UTC] PHP Fatal error:  Call to undefined function random_string() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:52:16 UTC] PHP Fatal error:  Call to undefined function alnum() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:52:25 UTC] PHP Fatal error:  Call to undefined function alnum() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:54:20 UTC] PHP Fatal error:  Call to undefined function alnum() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
+[26-Mar-2016 04:54:24 UTC] PHP Fatal error:  Call to undefined function alnum() in /home/rojgarti/public_html/d_ngo/application/views/front/market.php on line 32
